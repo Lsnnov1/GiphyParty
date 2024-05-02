@@ -1,0 +1,27 @@
+#giphyForm{
+    display: flex;
+
+    justify-content: center;
+}
+#gifDiv{
+    position: absolute;
+    padding-top: 30px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+#search{
+    font-size: larger;
+    border: solid 2px;
+}
+
+.btn-submit{
+    font-size: large;
+    border: solid 2px;
+}
+.btn-remove{
+    font-size: large;
+    background-color: rgb(197, 22, 22);
+    border: solid 2px;
+}
